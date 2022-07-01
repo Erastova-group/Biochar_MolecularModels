@@ -1,0 +1,15 @@
+; Include forcefield parameters
+#include "../oplsaa.ff/forcefield.itp"
+#include "./800C_11.atp"
+
+#include "./800C_11.itp"
+#include "../oplsaa.ff/spc.itp"
+
+[ system ]
+; Name
+8G11 in water
+
+[ molecules ]
+; Compound        #mols
+8G11                 140
+SOL             34823
