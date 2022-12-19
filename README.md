@@ -1,7 +1,6 @@
 data/
 
-Data used for model development in .csv format plus plotted data in .pdf/.png format.
-
+Data used for model development in .csv format plus plotted data in .pdf format.
 
 building_blocks/
 
@@ -12,6 +11,7 @@ To generate OPLS_AA topology files for these, please follow instructions on http
 models/ 
 
 Molecular models of woody biochars produced at low (400ºC), medium (600ºC) and high (800ºC) highest treatment temperatures as detailed in Wood et al. 2023. 
+
 All files needed for simulation with GROMACs are included, plus a copy of the OPLS-AA 2001 forcefield.
 
 
