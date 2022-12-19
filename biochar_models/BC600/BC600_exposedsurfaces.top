@@ -1,0 +1,15 @@
+; Include forcefield parameters
+#include "../oplsaa.ff/forcefield.itp"
+#include "./600C_9.atp"
+
+#include "./600C_9.itp"
+#include "../oplsaa.ff/spc.itp"
+
+[ system ]
+; Name
+6G9 in water
+
+[ molecules ]
+; Compound        #mols
+6G9                 70
+SOL             12876
