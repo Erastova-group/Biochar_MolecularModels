@@ -1,15 +1,16 @@
-**Molecular models of woody biochars**
+**Molecular Models of Woody Biochars**
 
 Three models of biochars, representative of woody biochar produced at low (400ºC), medium (600ºC) and high (800ºC) highest treatment temperatures: `BC400`, `BC600`, `BC800`, respectively.
 
 Each directory contains a bulk model, a surface-exposed model, OPLS-AA topology to be used with GROMACS molecular simulationn package. 
 
+See Wood et al., 2023 for details.
 
----
+
+
 The characterisation of each model is as follows: 
 
-
-
+---
 Model name = BC400 \
 HTT (ºC) = 400 \
 H/C = 0.63 \
@@ -22,8 +23,7 @@ Density adjusted for free volume (kg m-3) = 1404 \
 Solvent accesible surface area (nm2) = 162 \
 Normalised solvent accessible surface area (nm2 nm-2) = 1.92 \
 
-
-
+---
 Model name = BC600 \
 HTT (ºC) = 600 \
 H/C = 0.24 \
@@ -36,8 +36,7 @@ Density adjusted for free volume (kg m-3) = 1572 \
 Solvent accesible surface area (nm2) = 233 \
 Normalised solvent accessible surface area (nm2 nm-2) = 2.73 \
  
-
-
+---
 Model name = BC800 \
 HTT (ºC) = 800 \
 H/C = 0.09 \
@@ -59,11 +58,11 @@ Normalised solvent accesible surface area calculated as:
 normalised_SASA = SASA / 2*(x_dimension*y_dimension)
 
 
-
 -----
 CITE as:
 - R. Wood, O. Masek, V. Erastova, Part I: ...
 - R. Wood, O. Masek, V. Erastova, Part II: ...
+
 
 
 
