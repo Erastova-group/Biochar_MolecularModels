@@ -23,8 +23,7 @@ Molecular models of woody biochars produced at low (400ºC), medium (600ºC) and
 
 All files needed for simulation with GROMACs are included, plus a copy of the OPLS-AA 2001 forcefield.
 
-Please email rosie.wood@ed.ac.uk or valentina.erastova@ed.ac.uk for any questions/help with model set up.
-
+For any questions/help with model set up, email rosie.wood@ed.ac.uk or valentina.erastova@ed.ac.uk 
 
 -----
 CITE as:
