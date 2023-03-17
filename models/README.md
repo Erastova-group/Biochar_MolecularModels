@@ -4,7 +4,7 @@ Models of biochars, representative of woody biochar produced at low (400ºC), me
 
 Each directory contains a bulk model `BCxxx_BULK.gro`, a surface-exposed model `BCxxx_SURF.gro`, with asigned OPLS-AA forcefield as `BCxxx.top` to be used with both systems. 
 
-We also include OPLS-AA forcefield directory, as included in GROMACS molecular simulationn package.
+We also include OPLS-AA forcefield directory, as included in GROMACS molecular simulation package.
 
 See Wood et al., 2023 for details.
 
