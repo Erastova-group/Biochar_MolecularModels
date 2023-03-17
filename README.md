@@ -35,14 +35,15 @@ To generate a topology files, please follow instructions on http://zarbi.chem.ya
 
 Molecular models of bulk and surface-exposed woody biochars produced at low (400ºC), medium (600ºC) and high (800ºC) highest treatment temperatures (see Wood et al. 2023 for details).
 
-The folder contains all files necessary for simulation with GROMACs:
+The folder contains all files necessary for simulation with GROMACS:
  - `.gro` files for bulk and surface-exposed systems
- - `.top`, `.itp` and `.atp` files assigning forcefield parameters to the structures
+ - `.top` files assigning forcefield parameters for each structure
  - `oplsaa.ff` an OPLS-AA forcefield directory
 
 
 -----
-CITE as:
+More more information see the following publications. \
+If using these models, please cite as:
 - R. Wood, O. Masek, V. Erastova, Part I: ...
 - R. Wood, O. Masek, V. Erastova, Part II: ...
 

@@ -1,0 +1,20 @@
+;gra - charges add to 0
+C	opls_147	0.000	12.0110		3	C	0.14	C	0.14	C	0.14			;napthalene C
+C	opls_145	-0.115	12.0110		3	C	0.14	C	0.14	H	0.108			;benzene C
+H	opls_146	0.115	1.008		1	C	0.102			;benzene H - NOTE: bond length from marvin not ffbonded
+
+;quinone/beznophenone
+C	opls_145	-0.115	12.0110		3	C	0.14	C	0.14 	C 	0.149			;CA|C for CC bond
+C 	opls_231	0.7		12.0110		3	C 	0.149	C 	0.149	O 	0.1229
+O 	opls_281	-0.470	15.9994		1 	C 	0.1229 							;C|O_2 for CO bond
+
+;diphenylether - charges add to 0, made using OPLSsolvents diphenylether
+C 	opls_472	0.135	12.0110		3	C 	0.14 	C 	0.14 	O 	0.1365			;phenyl ester
+O 	opls_179	-0.27	15.9994		2 	C 	0.1364	C 	0.1364						;anisole - adapted charge
+
+;phenol - charges add to 0
+C	opls_166	0.150	12.01100	3	C	0.14	C	0.14	O 	0.1364 			;phenol C
+O	opls_167	-0.585	15.99940	2	C	0.1364	H	0.0945						;phenol O
+H	opls_168	0.435	1.008		1	O 	0.0945									;phenol (O)H
+
+;for pyrone - benzophenone + diphenylether
