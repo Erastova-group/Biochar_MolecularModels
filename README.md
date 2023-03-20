@@ -44,10 +44,8 @@ The folder contains all files necessary for simulation with GROMACS:
 -----
 More more information see the following publications. \
 If using these models, please cite as:
-- R. Wood, O. Masek, V. Erastova,Biochars at the molecular level. Part 1 -- Insights into the molecular structures within biochars
-[https://doi.org/10.48550/arXiv.2303.09661](https://doi.org/10.48550/arXiv.2303.09661)
+- R. Wood, O. Masek, V. Erastova, _Biochars at the molecular level. Part 1 -- Insights into the molecular structures within biochars._ [https://doi.org/10.48550/arXiv.2303.09661](https://doi.org/10.48550/arXiv.2303.09661)
 
-- R. Wood, O. Masek, V. Erastova, Biochars at the molecular level. Part 2 -- Development of realistic molecular models of biochars
-[https://doi.org/10.48550/arXiv.2303.09907](https://doi.org/10.48550/arXiv.2303.09907)
+- R. Wood, O. Masek, V. Erastova, _Biochars at the molecular level. Part 2 -- Development of realistic molecular models of biochars._ [https://doi.org/10.48550/arXiv.2303.09907](https://doi.org/10.48550/arXiv.2303.09907)
 
 
