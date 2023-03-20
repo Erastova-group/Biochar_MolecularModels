@@ -2,6 +2,8 @@
 
 By Rosie Wood (rosie.wood@ed.ac.uk) and Valentina Erastova (valentina.erastova@ed.ac.uk)
 
+University of Edinburgh
+
 ---
 
 `exper_data/` 
