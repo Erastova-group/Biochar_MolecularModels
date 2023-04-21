@@ -9,8 +9,3 @@
 `logistic_fittedplots.pdf` and `logistic_SA.pdf` fitted data data used in the molecular model development
 
 
----
-
-CITE as:
-- R. Wood, O. Masek, V. Erastova, Part I: ...
-- R. Wood, O. Masek, V. Erastova, Part II: ...
